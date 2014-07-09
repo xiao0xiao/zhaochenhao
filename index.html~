@@ -1,0 +1,256 @@
+<i><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="product" content="Metro UI CSS Framework">
+    <meta name="description" content="Simple responsive css framework">
+    <meta name="author" content="xiaoyue" >
+
+    <link href="css/metro-bootstrap.css" rel="stylesheet">
+    <link href="css/metro-bootstrap-responsive.css" rel="stylesheet">
+    <link href="css/iconFont.css" rel="stylesheet">
+
+ 
+
+
+    <!-- Load JavaScript Libraries -->
+    <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/jquery.widget.min.js"> </script>
+     <script src="js/jquery.mousewheel.js"> </script>
+    
+ 
+    <script src="min/metro.min.js"></script>
+    <script src="js/metro-accordion.js"></script>
+    <title>Welcome to Zhao's site!</title>
+</head>
+<body class="metro" background="media/bg.jpg" style="background-size:cover">
+    
+    <div class="container">
+        <h1>
+          
+            Title<small class="on-right">subtitle</small>
+        </h1>
+        
+        
+
+						<div class="grid fluid" id="basic">
+                        <div class="row">
+                            <div class="span3">
+                                <div class="notice">
+                                			<h5> Name</h5>
+                                    <div class="fg-white " style="font-size:25px;">ChenHao,Zhao</div>
+                                </div>
+                            </div>
+                            <div class="span2">
+                            		
+                                <div class="notice marker-on-top bg-amber">
+                                <h5> Gender</h5>
+                                    <div class="fg-white" style="font-size:25px;">Male</div>
+                                </div>
+                            </div>
+                            <div class="span2">
+                            	
+                                <div class="notice marker-on-bottom bg-pink">
+                                <h5> Nationality</h5>
+                                    <div class="fg-white" style="font-size:25px;"> China </div>
+                                </div>
+                            </div>
+                            
+                            <div class="span2">       
+                                <div class="notice marker-on-top bg-darkRed fg-white">
+                                		 	<h5> Date of Birth</h5>
+                                    <div class="" style="font-size:25px;"> 14,March,1993 </div>
+                                </div>
+                            </div>
+                            
+                             <div class="span2">
+                          
+                                <div class="notice marker-on-right bg-Green fg-white">
+                                <h5> Place of Birth</h5>
+                                    <div class="" style="font-size:13px;"> BaoJI,Shaanxi Province,China </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                 
+                  
+                    
+                    
+                    <div class="grid fluid" id = "middle">
+                    
+                     <div class="row">
+                     
+                      <div class="span4"  height="400"data-hint="Experience|This is how my life got through"  data-hint-position="left" style="height:400px;">
+                      
+                     
+                      
+                         <div class="carousel"   data-role="carousel"  	data-height="400" data-auto="false" style="width=100%;">
+                         
+                       
+                         
+                   <!--
+中间是JS代码
+//-->
+                      
+									
+                        
+ 									<div>				                      
+                           <span class="controls left " style="display:block;margin-top:10px;top:10px; font-size:30px;" > <i class=" icon-arrow-left-3 fg-black "></i></span>
+                           <span class="controls right "style="display:block;margin-top:10px;top:10px; font-size:30px;" > <i class="icon-arrow-right-3 fg-black "></i></span>
+                           </div>
+                         
+                           
+								
+								 
+								 
+								 
+									<div class="slides">
+									
+    								 	
+     
+    								<div class="slide bg-yellow" tyle="text-align:center;">
+    								 			 <div>
+    								 			 <h4 style="margin-top:30px;text-align: center; width:100%;">Research Experience (2014) </h4>
+    								 			 
+    								 			 <div class="panel-content fg-dark nlp nrp" style="margin-left:20px;margin-right:20px;">
+    								 					<div >Junl.– Aug.:   <div style="margin-left:20px;"> <strong>Summer Undergraduate Research Fellowship </strong>,
+																            University.Xi’an-Jiaotong Liverpool</div>
+														</div>
+														<div >Project:   <div style="margin-left:20px;"> Research on Maximum-Power-Point-Tracking Techniques for Photovoltaic Power
+																					System</div>
+														</div>
+														
+														
+														<div >Supervisor:   <div style="margin-left:20px;"> Doctor WEN HUIQING</div>
+														</div>
+														
+														<div >Description:   <div style="margin-left:20px;"> This thesis explored the idea that Class E Converter at which condition could
+																						transmit maximum power.</div>
+														</div>
+														
+														
+    								 			 </div>
+    								 			
+    								 			 	
+    								 			 </div>
+    									</div>
+    									
+    									<div class="slide bg-darkblue" tyle="text-align:center;">
+    								 			 <div>
+    								 			 <h4 style="margin-top:30px;text-align: center; width:100%;">Work Experience</h4>
+    								 			 
+    								 			 <div class="panel-content fg-dark nlp nrp" style="margin-left:20px;margin-right:20px;">
+    								 				
+														
+														
+														<div >2013–2014:   <div style="margin-left:20px;"> <strong>Help You Up</strong>, Xi’an-Jiaotong Liverpool University, Legal Person, Project CreativeDirector.Establish a project named ’Help You Up’ with partners at XJTLU Student Enterprise Park</div>
+														</div>
+														
+														<div >2014:   <div style="margin-left:20px;"><strong> Alumni Association</strong>, Xi’an-Jiaotong Liverpool University, Promotion Department.
+																				As a leader to complete the job for making greeting cards</div>
+														</div>
+														
+														
+    								 			 </div>
+    								 			
+    								 			 	
+    								 			 </div>
+    									</div>
+    									
+    									
+    									<div class="slide bg-pink" tyle="text-align:center;">
+    								 			 <div>
+    								 			 <h4 style="margin-top:30px;text-align: center; width:100%;">Internship Experience (2014)</h4>
+    								 			 
+    								 			 <div class="panel-content fg-dark nlp nrp" style="margin-left:20px;margin-right:20px;">
+    								 				
+														
+														
+														<div >Jan.– Feb.:   <div style="margin-left:20px;"><strong>Shaanxi Car Group Co., Ltd</strong>, Maintenance Department.
+																						Follow advanced workers and assist them fix machines</div>
+														</div>
+														
+														<div >Jan.– Feb.:   <div style="margin-left:20px;"><strong>Mengniu Dairy Group Co., Ltd</strong>, Equipment Department.</div>
+														</div>
+														
+														
+    								 			 </div>
+    								 			
+    								 			 	
+    								 			 </div>
+    									</div>
+    									
+    									
+    									<div class="slide bg-darkMagenta" tyle="text-align:center;">
+    								 			 <div>
+    								 			 <h4 style="margin-top:30px;text-align: center; width:100%;">Club Experience</h4>
+    								 			 
+    								 			 <div class="panel-content fg-dark nlp nrp" style="margin-left:20px;margin-right:20px;">
+    								 				
+														
+														
+														<div >2012–2013.:   <div style="margin-left:20px;"><strong>Club of Physics</strong>, Xi’an-Jiaotong Liverpool University, Promotion Department.
+																					Create this club and as Minister to propose ideas and propagandize for activities</div>
+														</div>
+														
+														<div >2012–2013.:   <div style="margin-left:20px;"><strong><strong>Warden Magazine Club</strong>, Xi’an-Jiaotong Liverpool University, Promotion
+																																			Department.
+																																			As Vice President to lead this club and as Minister to make typesetting for magazines</div>
+														</div>
+														
+														
+    								 			 </div>
+    								 			
+    								 			 	
+    								 			 </div>
+    									</div>
+     
+     
+                        
+    							   </div>
+    							 </div>
+    							  
+    					   </div>
+                     
+                     
+                      
+                       <div class="span3" style="margin-left:20px;">
+                        <div class="tile double quadro-vertical bg-orange" style="text-align:center;"> 
+                        	<h3 style="margin-top:30px;text-align: center; width:100%;"> Good Morning</h3> 
+                        	<p style="text-align:center;">student</p>
+                        
+                   			<div class="row">
+                        		<img src="media/head1.JPG" class="cycle polaroid span5 " style="margin-top:5px;margin-left:75px;"> 
+                        	</div>
+                        
+                        	<div class="row">
+                        		<p style="margin-left:40px;margin-right:40px;">Xi’an-Jiaotong Liverpool University</p>                       
+                        	</div>
+                       
+                        	<div class="row">
+                        		<button class="large fg-gray" style="font-family:"Segoe UI_","Open Sans",Verdana,Arial,Helvetica,sans-serif;"><i class="icon-rocket"> </i>Cheer up!</button>                       
+                        	</div>
+                  	 	</div>
+                  	 </div>
+                      
+                      <div class="span4 " >
+                        
+                       <script type="text/javascript" src="http://ext.weather.com.cn/81712.js"></script><iframe allowtransparency="true" frameborder="0" width="385" height="96" scrolling="no" src="http://tianqi.2345.com/plugin/widget/index.htm?s=1&z=1&t=0&v=0&d=3&bd=0&k=&f=&q=1&e=1&a=1&c=54511&w=385&h=96&align=center"></iframe>
+                     
+                      </div>
+                      
+                      
+									
+							</div>
+                      
+                    
+                      
+                      
+                      
+                    
+                    
+                    </div>
+   </div>
+</body>
+</html>
