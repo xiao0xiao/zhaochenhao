@@ -29,7 +29,7 @@
     <div class="container">
         <h1>
           
-            Title<small class="on-right">subtitle</small>
+           College Life<small class="on-right">ChenHao.Zhao</small>
         </h1>
         
         
@@ -64,7 +64,7 @@
                                 </div>
                             </div>
                             
-                             <div class="span2">
+                             <div class="span2" style="margin-left:32px;">
                           
                                 <div class="notice marker-on-right bg-Green fg-white">
                                 <h5> Place of Birth</h5>
@@ -236,20 +236,13 @@
                       
                       <div class="span4 " >
                         
-                       <script type="text/javascript" src="http://ext.weather.com.cn/81712.js"></script><iframe allowtransparency="true" frameborder="0" width="385" height="96" scrolling="no" src="http://tianqi.2345.com/plugin/widget/index.htm?s=1&z=1&t=0&v=0&d=3&bd=0&k=&f=&q=1&e=1&a=1&c=54511&w=385&h=96&align=center"></iframe>
+                       <iframe allowtransparency="true" frameborder="0" width="400" height="400" scrolling="no" src="http://tianqi.2345.com/plugin/widget/index.htm?s=1&z=1&t=1&v=0&d=5&bd=0&k=&f=&q=1&e=1&a=1&c=54511&w=400&h=400&align=center"></iframe>
                      
                       </div>
                       
                       
 									
-							</div>
-                      
-                    
-                      
-                      
-                      
-                    
-                    
+							</div>               
                     </div>
    </div>
 </body>
